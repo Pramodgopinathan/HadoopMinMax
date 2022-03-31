@@ -11,3 +11,4 @@ NCDC gives us all the weather data we need for this mapreduce project.
 ![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download.png)
 
 ### After downloading from terminal, it would be in the below mentioned folder
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download2.png)
