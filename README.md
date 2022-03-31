@@ -8,6 +8,6 @@ let me see a complex mapreduce program on weather dataset. Here I am using one o
 NCDC gives us all the weather data we need for this mapreduce project.
 
 ### Command to download dataset from ftp
-https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download.png
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download.png)
 
 ### After downloading from terminal, it would be in the below mentioned folder
