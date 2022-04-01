@@ -45,3 +45,7 @@ export CLASSPATH="/usr/local/hadoop/share/hadoop/common/hadoop-common-3.3.2.jar:
 
 ![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download4.png)
 
+### Step 9: Create a new file Manifest.txt (This is to make jar file understand where is the main class)
+sudo gedit Manifest.txt
+
+
