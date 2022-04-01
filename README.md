@@ -52,3 +52,4 @@ sudo gedit Manifest.txt
 Keep it inside the same folder as show above
 
 ### Step 10: Create Jar file 
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download5.png)
