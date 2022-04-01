@@ -56,3 +56,11 @@ Keep it inside the same folder as show above
 
 ### Step 11: Start hadoop hdfs and yarn also put Step 1 data (Weather.txt) into hdfs file
 
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download6.png)
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download7.png)
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download8.png)
+
+## Step 12: You could also view browser 
+http://localhost:9870/explorer.html#/Ouput_MaxMin
+
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download9.png)
