@@ -20,9 +20,10 @@ sudo mkdir Weather
 sudo chmod -R 777 Weather
 
 ### Step 3: To create java files which i have created
-![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/MaxTemperatureMapper.java)
-![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/MaxTemperatureReducer.java)
-![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/MyMaxMinDriver.java)
+MaxTemperatureMapper.java
+MaxTemperatureReducer.java
+MyMaxMinDriver.java
+Above is kept in repository  
 
 I have created this java which have function that check min and say its cold day and max to say its hot day.
 
