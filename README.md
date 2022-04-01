@@ -12,3 +12,9 @@ NCDC gives us all the weather data we need for this mapreduce project.
 
 ### After downloading from terminal, it would be in the below mentioned folder
 ![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download2.png)
+
+### Step 1: Create a new directory with name Weather as shown in the below Weather example
+sudo mkdir Weather
+
+### Step 2: Give permission to folder which was created 
+sudo chmod -R 777 Weather
