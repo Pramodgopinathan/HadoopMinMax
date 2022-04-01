@@ -25,7 +25,7 @@ MaxTemperatureReducer.java,
 MyMaxMinDriver.java
 
 
-Above is kept in repository  
+Above java file is kept in repository  
 
 I have created this java which have function that check min and say its cold day and max to say its hot day.
 
