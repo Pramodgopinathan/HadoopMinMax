@@ -53,3 +53,6 @@ Keep it inside the same folder as show above
 
 ### Step 10: Create Jar file 
 ![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download5.png)
+
+### Step 11: Start hadoop hdfs and yarn also put Step 1 data (Weather.txt) into hdfs file
+
