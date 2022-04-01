@@ -37,9 +37,11 @@ sudo chmod +r *.*
 ### Step 7: Export classpath 
 export CLASSPATH="/usr/local/hadoop/share/hadoop/common/hadoop-common-3.3.2.jar:/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.2.jar"
 
-![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download4.png)
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download3.png)
 
 #### Note: hadoop-core is now hadoop-common and mine is 3.3.2 you need to check which version you have. You could do it using 'find' command in terminal.
 
 ### Step 8: Compile Java files (these files are present in directory Final-MyMaxMin). Its class files will be put in the package directory
+
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/download4.png)
 
