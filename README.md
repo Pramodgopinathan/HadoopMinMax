@@ -18,3 +18,22 @@ sudo mkdir Weather
 
 ### Step 2: Give permission to folder which was created 
 sudo chmod -R 777 Weather
+
+### Step 3: To create java files which i have created
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/MaxTemperatureMapper.java)
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/MaxTemperatureReducer.java)
+![](https://github.com/Pramodgopinathan/HadoopMinMax/blob/main/MyMaxMinDriver.java)
+
+I have created this java which have function that check min and say its cold day and max to say its hot day.
+
+### Step 4: Now download the files in the folder which was created "Weather"
+
+### Step 5: Check the permission of each files 
+ls -all
+
+### Step 6: Now give write permission to each files
+sudo chmod +r *.*
+
+### Step 7: Export classpath 
+export CLASSPATH="/usr/local/hadoop/share/hadoop/common/hadoop-common-3.3.2.jar:/usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.2.jar"
+
